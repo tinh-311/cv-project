@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCaro", "GameCaro\GameCaro.csproj", "{6A0DEF2C-E939-4B3E-BF66-78452F7575FA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{4436D836-7A61-43AB-B473-384327082591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A0DEF2C-E939-4B3E-BF66-78452F7575FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0DEF2C-E939-4B3E-BF66-78452F7575FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0DEF2C-E939-4B3E-BF66-78452F7575FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0DEF2C-E939-4B3E-BF66-78452F7575FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4436D836-7A61-43AB-B473-384327082591}.Debug|Any CPU.ActiveCfg = Debug
+		{4436D836-7A61-43AB-B473-384327082591}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63F6ECB1-706A-4A0E-8472-75D2EE5DF5AC}
+	EndGlobalSection
+EndGlobal

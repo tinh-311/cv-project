@@ -1,0 +1,9 @@
+E:\C#\GameCaro\GameCaro\bin\Release\GameCaro.exe.config
+E:\C#\GameCaro\GameCaro\bin\Release\GameCaro.exe
+E:\C#\GameCaro\GameCaro\bin\Release\GameCaro.pdb
+E:\C#\GameCaro\GameCaro\obj\Release\GameCaro.Form1.resources
+E:\C#\GameCaro\GameCaro\obj\Release\GameCaro.Properties.Resources.resources
+E:\C#\GameCaro\GameCaro\obj\Release\GameCaro.csproj.GenerateResource.cache
+E:\C#\GameCaro\GameCaro\obj\Release\GameCaro.csproj.CoreCompileInputs.cache
+E:\C#\GameCaro\GameCaro\obj\Release\GameCaro.exe
+E:\C#\GameCaro\GameCaro\obj\Release\GameCaro.pdb

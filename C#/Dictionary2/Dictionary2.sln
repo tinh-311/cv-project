@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary2", "Dictionary2\Dictionary2.csproj", "{1B39495A-A2A4-43FE-9070-8A01A0B48B63}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{6D5B04E2-5EF8-41AB-BF6C-B7EDDC249565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B39495A-A2A4-43FE-9070-8A01A0B48B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B39495A-A2A4-43FE-9070-8A01A0B48B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B39495A-A2A4-43FE-9070-8A01A0B48B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B39495A-A2A4-43FE-9070-8A01A0B48B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D5B04E2-5EF8-41AB-BF6C-B7EDDC249565}.Debug|Any CPU.ActiveCfg = Debug
+		{6D5B04E2-5EF8-41AB-BF6C-B7EDDC249565}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13579E55-5767-45C0-98E6-69325C4C475C}
+	EndGlobalSection
+EndGlobal

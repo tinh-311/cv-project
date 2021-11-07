@@ -1,0 +1,12 @@
+E:\C#\Dictionary2\Dictionary2\bin\Debug\Dictionary2.exe.config
+E:\C#\Dictionary2\Dictionary2\bin\Debug\Dictionary2.exe
+E:\C#\Dictionary2\Dictionary2\bin\Debug\Dictionary2.pdb
+E:\C#\Dictionary2\Dictionary2\obj\Debug\Dictionary2.mainForm.resources
+E:\C#\Dictionary2\Dictionary2\obj\Debug\Dictionary2.Properties.Resources.resources
+E:\C#\Dictionary2\Dictionary2\obj\Debug\Dictionary2.csproj.GenerateResource.cache
+E:\C#\Dictionary2\Dictionary2\obj\Debug\Dictionary2.csproj.CoreCompileInputs.cache
+E:\C#\Dictionary2\Dictionary2\obj\Debug\Dictionary2.exe
+E:\C#\Dictionary2\Dictionary2\obj\Debug\Dictionary2.pdb
+E:\C#\Dictionary2\Dictionary2\obj\Debug\Dictionary2.InsertForm.resources
+E:\C#\Dictionary2\Dictionary2\obj\Debug\Dictionary2.DeleteForm.resources
+E:\C#\Dictionary2\Dictionary2\obj\Debug\Dictionary2.csproj.AssemblyReference.cache
